@@ -1,0 +1,15 @@
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.exe
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.deps.json
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.runtimeconfig.json
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.runtimeconfig.dev.json
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.dll
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\ref\TukanoTask.dll
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\bin\Release\net5.0\TukanoTask.pdb
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.AssemblyInfoInputs.cache
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.AssemblyInfo.cs
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.csproj.CoreCompileInputs.cache
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.dll
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\ref\TukanoTask.dll
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.pdb
+D:\Piotr\MVS\c#\Testowe\TukanoTask\TukanoTask\obj\Release\net5.0\TukanoTask.genruntimeconfig.cache
